@@ -2,7 +2,7 @@
 
 Hello! I am [kolola].
 
-Write a short paragraph about your interests, skills, or goals.
+i know how to code little bit and play games.
 
 ## Navigation
 
