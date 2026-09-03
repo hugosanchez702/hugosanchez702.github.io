@@ -1,8 +1,8 @@
 # About Me
 
-Hello! I am [kolola].
+Hello! I am hugo
 
-i know how to code little bit and play games.
+  i play games like warzone i also play soccer a little bit.
 
 ## Navigation
 
