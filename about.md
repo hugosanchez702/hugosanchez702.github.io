@@ -6,6 +6,6 @@ i know how to code little bit and play games.
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
