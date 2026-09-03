@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is [koalola.
+# Welcome to My Portfolio Hello! My name is hugo s.
 
 ## Projects
 
