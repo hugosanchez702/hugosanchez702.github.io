@@ -12,13 +12,89 @@
 
 
 
+## Table of Contents
+
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
 
+Blocks
 
+Block	What Your Notes Should Include
+Hat Block	What it looks like, what it is used for, and where it belongs
+Stack / Command Block	What it does and how it connects to other commands
+C-Block	What the C-shape means and why blocks can be placed inside
+Reporter / Oval Block	What it reports and where it can be used
+Boolean / Hexagonal Block	What it reports and why it has a different shape
+Repeat Block	Its shape, what it does, and what goes inside it
+Wait Until Block	What it does and what kind of condition it needs
+If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
+Forever Block	Its shape and why programmers use it
+For each block, include:
 
+Name:
+Shape/Type:
+What It Does:
+Concepts
 
+Concept	Your Notes Should Explain
+Sequence	Why the order of commands matters
+Parameters	How changing an input changes what a command does
+Loops / Iteration	How and why programs repeat instructions
+Sensors	How a robot gets information about its environment
+Booleans & Conditions	How TRUE/FALSE information controls a program
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+Comparisons	How < and > compare values and produce TRUE/FALSE
+Coordinates	How X and Y values describe the robot's location
+Conditionals	How programs make decisions using conditions
+Patterns	How recognizing repeated behavior can help create better algorithms
+For each concept, include:
 
+What It Means:
+In My Own Words:
+Vocabulary
+IMPORTANT: One Row = One Notebook Entry
+Some related terms have been grouped together.
+
+If several terms appear in the same row, put them together in ONE notebook entry.
+
+You should still explain every term listed in that row.
+
+Notebook Entry	Terms to Include
+VR Robot + Playground	VR Robot, Playground
+Programming Language + Project	Programming Language, Project
+Behavior + Command	Behavior, Command
+Drivetrain	Drivetrain
+Loop + Iteration	Loop, Iteration
+Sensor + Bumper Sensor	Sensor, Bumper Sensor
+Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
+Distance Sensor + Threshold	Distance Sensor, Threshold
+Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
+Location Sensor	Location Sensor
+Comment	Comment
+Eye Sensor	Eye Sensor
+Conditional Statement	Conditional Statement
+Markdown Style Guide
+
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 
 
