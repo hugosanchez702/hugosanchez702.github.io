@@ -105,7 +105,21 @@ Use inline code for keywords, functions, or commands.
 
 Use `System.out.println()` to print
 
- 
+ <summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 # Code Blocks
 
