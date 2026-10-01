@@ -2,9 +2,7 @@
 
 ## Projects
 
-- [VEX VR](vex-vr.md) : (Write a description for your VEX VR work and the project page)
-
-- Project 2: Description
+- [VEX VR](vex-vr.md) : the things i been doing is that i learn on how to control the robot and that shows me how to move the robot.
 
 ## About Me
 
